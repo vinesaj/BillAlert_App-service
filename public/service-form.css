@@ -1,0 +1,317 @@
+.service-form-container {
+  min-height: 100vh;
+}
+.service-form-service-form {
+  width: 100%;
+  height: 706px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(26, 24, 24, 1);
+}
+.service-form-rectangle1 {
+  top: 43.014156341552734px;
+  left: 2.378089666366577px;
+  width: 1328px;
+  height: 643px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-rectangle2 {
+  top: 53px;
+  left: 17px;
+  width: 132px;
+  height: 134px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.service-form-comiccartoonringingtelephonevector70601581 {
+  top: 53px;
+  left: 17px;
+  width: 132px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text {
+  top: 82px;
+  left: 186px;
+  color: rgba(131, 28, 28, 1);
+  width: 493px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-text02 {
+  top: 128px;
+  left: 112px;
+  color: rgba(122, 54, 54, 1);
+  width: 1009px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle5 {
+  top: 238px;
+  left: 7px;
+  width: 1433px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text07 {
+  top: 207px;
+  color: rgba(122, 54, 54, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle6 {
+  top: 262px;
+  left: 20px;
+  width: 184px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text09 {
+  top: 288px;
+  left: 33px;
+  color: rgba(122, 54, 54, 1);
+  width: 233px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle7 {
+  top: 326px;
+  left: 20px;
+  width: 183px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text11 {
+  top: 340px;
+  left: 39px;
+  color: rgba(122, 54, 54, 1);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle8 {
+  top: 386px;
+  left: 20px;
+  width: 185px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text13 {
+  top: 406px;
+  left: 35px;
+  color: rgba(122, 54, 54, 1);
+  width: 271px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle9 {
+  top: 448px;
+  left: 20px;
+  width: 185px;
+  height: 53px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text15 {
+  top: 469px;
+  left: 33px;
+  color: rgba(122, 54, 54, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-rectangle10 {
+  top: 303px;
+  left: 453px;
+  width: 840px;
+  height: 240px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text17 {
+  top: 341px;
+  left: 551px;
+  color: rgba(0, 0, 0, 1);
+  width: 777px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-text32 {
+  top: 526px;
+  left: 33px;
+  color: rgba(122, 54, 54, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.service-form-whats-app1 {
+  top: 550px;
+  left: 20px;
+  width: 65px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-pngtransparentemailaddresscomputericonsmailmiscell {
+  top: 561px;
+  left: 99px;
+  width: 64px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-aqua-phonelogo1c-c-d248f5dseeklogo1 {
+  top: 558px;
+  left: 203px;
+  width: 45px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-rectangle13 {
+  top: 622px;
+  left: 7px;
+  width: 1348px;
+  height: 3px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-rectangle14 {
+  top: 691px;
+  left: 0px;
+  width: 1355px;
+  height: 8px;
+  position: absolute;
+  border-color: transparent;
+}
+.service-form-text34 {
+  top: 648px;
+  left: 1075px;
+  color: rgba(112, 118, 127, 1);
+  width: 253px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
